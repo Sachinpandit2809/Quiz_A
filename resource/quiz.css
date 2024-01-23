@@ -1,0 +1,38 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #EEEDED;
+            font-weight: 500;
+        }
+        div h1{
+            margin-left: 1rem;
+        }
+        .quiz-container {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        .result-container {
+            display: none;
+            margin-top: 20px;
+        }
+        fieldset{
+            background-color:white
+        }
+        .quiz-container:hover{
+            box-shadow: 2px 2px 10px rgb(214, 214, 250);
+        }
+        label:hover{
+            box-shadow: 6px 0px 10px rgb(6, 240, 41);
+            font-size: 1.1rem;
+           
+        }
+        legend:hover{
+            font-size: 1.1rem;
+            box-shadow: 2px 0px 5px rgb(255, 0, 0) ;
+        }
+        div h1{
+            margin-left: 1rem;
+        }
+        fieldset:hover{
+            background-color:rgb(249, 255, 205)
+        }
